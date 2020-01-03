@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d8b793c-4e58-422e-a0c7-2f295838667d" name="Default Changelist" comment="" />
+    <list default="true" id="6d8b793c-4e58-422e-a0c7-2f295838667d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1STO7cNmNBrnSJekh7HhGZz5gWO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -100,22 +106,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2563" y="260" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578045606226" />
-    <state width="1897" height="404" key="GridCell.Tab.0.bottom" timestamp="1578051885877">
+    <state width="1897" height="404" key="GridCell.Tab.0.bottom" timestamp="1578057445633">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="404" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578051885877" />
-    <state width="1897" height="404" key="GridCell.Tab.0.center" timestamp="1578051885877">
+    <state width="1897" height="404" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578057445633" />
+    <state width="1897" height="404" key="GridCell.Tab.0.center" timestamp="1578057445633">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="404" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578051885877" />
-    <state width="1897" height="404" key="GridCell.Tab.0.left" timestamp="1578051885877">
+    <state width="1897" height="404" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578057445633" />
+    <state width="1897" height="404" key="GridCell.Tab.0.left" timestamp="1578057445633">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="404" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578051885877" />
-    <state width="1897" height="404" key="GridCell.Tab.0.right" timestamp="1578051885877">
+    <state width="1897" height="404" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578057445633" />
+    <state width="1897" height="404" key="GridCell.Tab.0.right" timestamp="1578057445633">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="404" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578051885877" />
+    <state width="1897" height="404" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1012@1920.0.1920.1080" timestamp="1578057445633" />
     <state x="2369" y="167" key="SettingsEditor" timestamp="1578051858051">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
