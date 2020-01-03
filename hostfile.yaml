@@ -1,0 +1,17 @@
+---
+hosts:
+  vEOS-LF01:
+    hostname: "vEOS-LF01"
+    mgmt_ip: "172.16.2.1"
+  vEOS-LF02:
+    hostname: "vEOS-LF02"
+    mgmt_ip: "172.16.2.2"
+  vEOS-SP01:
+    hostname: "vEOS-SP01"
+    mgmt_ip: "172.16.1.1"
+  vEOS-SP02:
+    hostname: "vEOS-SP02"
+    mgmt_ip: "172.16.1.2"
+  vEOS-SP03:
+    hostname: "vEOS-SP03"
+    mgmt_ip: "172.16.1.3"
